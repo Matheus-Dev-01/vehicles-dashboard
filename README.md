@@ -4,9 +4,7 @@ Dashboard web interativo para exploração do dataset `vehicles_us.csv`, com an�
 
 ## Demo
 
-Acesse o app em produção: [https://vehicles-dashboard.onrender.com](https://vehicles-dashboard.onrender.com)
-
-> O link acima será atualizado após o deploy no Render.
+Acesse o app em produção: [https://vehicles-dashboard-6jrp.onrender.com](https://vehicles-dashboard-6jrp.onrender.com)
 
 ## Tecnologias
 
